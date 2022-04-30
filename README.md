@@ -1,6 +1,5 @@
-# NFT Minter Frontend
-This repo is the frontend code for the NFTizer smart contract [HERE](https://github.com/mhassanist/nftizer-nft-minter-smart-contract-near-protocol)
-It is a react.js application. 
+# Ukraine NFTs
+This repo is the frontend code for Ukraine NFT Project
 
 # Sample Usage
 
