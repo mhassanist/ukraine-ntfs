@@ -32418,7 +32418,7 @@ function Form(_ref) {
     htmlFor: "donation"
   }, "Kutei Eight ", /*#__PURE__*/_react.default.createElement("strong", null, " 4 \u24C3"))), /*#__PURE__*/_react.default.createElement("button", {
     type: "submit"
-  }, "Mint"))), /*#__PURE__*/_react.default.createElement("form", {
+  }, "Support"))), /*#__PURE__*/_react.default.createElement("form", {
     onSubmit: onSubmit
   }, /*#__PURE__*/_react.default.createElement("fieldset", {
     id: "fieldset"
@@ -32445,7 +32445,7 @@ function Form(_ref) {
     htmlFor: "donation"
   }, "Kutei Seven ", /*#__PURE__*/_react.default.createElement("strong", null, " 3 \u24C3"))), /*#__PURE__*/_react.default.createElement("button", {
     type: "submit"
-  }, "Mint"))), /*#__PURE__*/_react.default.createElement("form", {
+  }, "Support"))), /*#__PURE__*/_react.default.createElement("form", {
     onSubmit: onSubmit
   }, /*#__PURE__*/_react.default.createElement("fieldset", {
     id: "fieldset"
@@ -32472,7 +32472,7 @@ function Form(_ref) {
     htmlFor: "donation"
   }, "Kutei Six ", "5 ", /*#__PURE__*/_react.default.createElement("strong", null, "\u24C3"))), /*#__PURE__*/_react.default.createElement("button", {
     type: "submit"
-  }, "Mint"))), /*#__PURE__*/_react.default.createElement("form", {
+  }, "Support"))), /*#__PURE__*/_react.default.createElement("form", {
     onSubmit: onSubmit
   }, /*#__PURE__*/_react.default.createElement("fieldset", {
     id: "fieldset"
@@ -32499,7 +32499,7 @@ function Form(_ref) {
     htmlFor: "donation"
   }, "Kutei Five ", "6 ", /*#__PURE__*/_react.default.createElement("strong", null, "\u24C3"))), /*#__PURE__*/_react.default.createElement("button", {
     type: "submit"
-  }, "Mint"))), /*#__PURE__*/_react.default.createElement("form", {
+  }, "Support"))), /*#__PURE__*/_react.default.createElement("form", {
     onSubmit: onSubmit
   }, /*#__PURE__*/_react.default.createElement("fieldset", {
     id: "fieldset"
@@ -32526,7 +32526,7 @@ function Form(_ref) {
     htmlFor: "donation"
   }, "Kutei Four ", "2 ", /*#__PURE__*/_react.default.createElement("strong", null, "\u24C3"))), /*#__PURE__*/_react.default.createElement("button", {
     type: "submit"
-  }, "Mint"))), /*#__PURE__*/_react.default.createElement("form", {
+  }, "Support"))), /*#__PURE__*/_react.default.createElement("form", {
     onSubmit: onSubmit
   }, /*#__PURE__*/_react.default.createElement("fieldset", {
     id: "fieldset"
@@ -32553,7 +32553,7 @@ function Form(_ref) {
     htmlFor: "donation"
   }, "Kutei Three ", "2 ", /*#__PURE__*/_react.default.createElement("strong", null, "\u24C3"))), /*#__PURE__*/_react.default.createElement("button", {
     type: "submit"
-  }, "Mint"))), /*#__PURE__*/_react.default.createElement("form", {
+  }, "Support"))), /*#__PURE__*/_react.default.createElement("form", {
     onSubmit: onSubmit
   }, /*#__PURE__*/_react.default.createElement("fieldset", {
     id: "fieldset"
@@ -32580,7 +32580,7 @@ function Form(_ref) {
     htmlFor: "donation"
   }, "Kutei Two ", " ", /*#__PURE__*/_react.default.createElement("strong", null, "2 \u24C3"))), /*#__PURE__*/_react.default.createElement("button", {
     type: "submit"
-  }, "Mint"))), /*#__PURE__*/_react.default.createElement("form", {
+  }, "Support"))), /*#__PURE__*/_react.default.createElement("form", {
     onSubmit: onSubmit
   }, /*#__PURE__*/_react.default.createElement("fieldset", {
     id: "fieldset"
@@ -32607,7 +32607,7 @@ function Form(_ref) {
     htmlFor: "donation"
   }, "Elepho", " ", /*#__PURE__*/_react.default.createElement("strong", null, "7 \u24C3"))), /*#__PURE__*/_react.default.createElement("button", {
     type: "submit"
-  }, "Mint"))));
+  }, "Support"))));
 }
 
 Form.propTypes = {
@@ -33639,7 +33639,7 @@ function getConfig(env) {
       return {
         networkId: "local",
         nodeUrl: "http://localhost:3030",
-        keyPath: `${"C:\\Users\\MSaudi"}/.near/validator_key.json`,
+        keyPath: `${"/Users/msaudi"}/.near/validator_key.json`,
         walletUrl: "http://localhost:4000/wallet",
         contractName: CONTRACT_NAME
       };
@@ -53940,7 +53940,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63036" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51371" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
